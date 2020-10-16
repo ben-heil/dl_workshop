@@ -1,0 +1,15 @@
+name: workshop
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - mamba
+  - pybedtools
+  - pyfaidx
+  - kipoi
+  - kipoiseq
+  - pyyaml
+  - ipykernel
+  - pytorch
+prefix: /home/heil/anaconda3/envs/workshop
+
