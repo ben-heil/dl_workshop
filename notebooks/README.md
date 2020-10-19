@@ -2,7 +2,7 @@
 This directory contains the notebooks for the two demonstrations in the workshop.
 
 The first demo, [network_train_demo.ipynb](https://colab.research.google.com/drive/1rl7DwrjGbqFF9vFd3TeusLLnnNH87eVD?usp=sharing), explains how to implement and train a basic neural network in pytorch.
-The second demo, [DeepSEA_Demo.ipynb](), shows how pretrained models from places like [Kipoi](http://kipoi.org/) can be applied to biological problems.
+The second demo, [DeepSEA_Demo.ipynb](https://colab.research.google.com/drive/1q1nK4xSZu0ma871D1XqeWF92WfB0UjH0?usp=sharing), shows how pretrained models from places like [Kipoi](http://kipoi.org/) can be applied to biological problems.
 
 ## Usage
 Ideally the notebooks will be executed on Google CoLab via the links above.
